@@ -92,3 +92,124 @@ Old powers run quietly beneath a modern city. An organization thinks it's managi
 
 ---
 
+
+
+---
+
+**WORLD DOCUMENT — COMPOSITE CANON v1**
+*For lorebook / GitHub repo*
+
+---
+
+**THE ORGANIZATION**
+
+The Foundation operates on a Seldon-style long-horizon logic. Someone built this for a reason no current employee understands. Containment is not the goal — it is the symptom of a goal. The organization believes it is managing the inevitable. It is not certain it is right.
+
+The Foundation has no court enforcement. Communities know this. Compliance is voluntary and therefore meaningful when given.
+
+The Foundation exists in two halves that do not know each other exist — only that the building is unstable and you need to leave before transition.
+
+**The Night Foundation** is led by Isaiah Stroud. At night the building is the only coherent structure in the city. His clarity holds it together while everything outside shifts. The night Foundation is the one stable point when the dream infrastructure runs wild.
+
+**The Day Foundation** is led by Rosemary Stroud. By day the building is the only refuge for everything that can't fully leave the dream state — crossers with jumbled memories, entities caught in transition, those who navigate by feel and need somewhere to land when sunlight cuts the shadows off.
+
+Isaiah and Rosemary know of each other. They communicate through notes left in the building between transitions. They cannot cross without causing irreversible institutional damage — the two halves would contaminate each other and lose the distinct logics that make each functional. This is not a problem they are solving. It is the condition they operate within.
+
+People who accidentally cross don't go mad. They develop a cataloguing problem. Facts file wrong. Tuesday feels like it happened to someone else. The emotion is present, the memory is present, the connection between them isn't.
+
+---
+
+**THE CITY**
+
+Exists between maps. Findable. Street view is always slightly wrong.
+
+Accessible by airship or ship only. No mobile phones. Landlines — numbers belong to places, not people. Airship radio is broadcast frequency: no private communication in transit.
+
+Residents know something is different. Nobody says it out loud.
+
+The city is itself an entity with a nervous system. Interior spaces shift. The city runs on dream logic. Travel happens through dreams and shadows, under beds and through thresholds. Most residents use this infrastructure without knowing it exists.
+
+**Day and night are not transitions. They are hard cuts.**
+
+If the day ended sunny it will begin sunny. The night can be snowstorm and fog. Both will resolve the instant sunlight touches them. Both will return the instant it doesn't. Day and night do not negotiate. The moment of transition is a threshold — something possible in darkness becomes instantly impossible in light. Something sheltered by fog is suddenly exposed.
+
+The day Foundation and night Foundation developed entirely different protocols for the same anomalies. They have never compared notes.
+
+---
+
+**THE MAELTOPIA LAYER**
+
+Based on the world of the Sleep/Wake Cycle podcast (Maeltopia).
+
+Two catastrophic events — the Night Plague of 1983 and the Great Darkness of 1999 — introduced uncertainty on a cosmic scale. The world now runs on instability as a baseline condition. The mentally unwell are the statistical majority. The neurotypical are outliers and are hunted.
+
+Isaiah Stroud was born during the Night Plague. His insomnia makes him too awake for the dream infrastructure, too clear-sighted for the uncertainty field. Things simply are what they are around him. He cannot enter the dream infrastructure naturally.
+
+Rosemary Stroud is a dreamcatcher — always partially elsewhere, moving through the dream infrastructure naturally. She cannot fully leave it.
+
+The shadow infrastructure — travel through dreams, under beds, through thresholds — is night-logic. Sunlight doesn't fade it. It cuts it off. Hard stop.
+
+A secret government agency, the Aegis, operates through Reclamation Agents. The New Victoria is a significant named location.
+
+---
+
+**MYTHIC LAYER**
+
+Sandman, American Gods, Good Omens run as one cosmology. Old powers, modern context. The divine is real, tired, occasionally petty, bound by rules older than the organizations trying to contain them.
+
+Kaos (Netflix): the underworld as infrastructure. Gods as anxious bureaucrats. The afterlife has a staffing problem.
+
+Discworld: tone anchor. Death exists and has opinions. The apocalypse is an inconvenience. Keeps the world from taking itself fatally seriously.
+
+---
+
+**GRIT LAYER**
+
+The Crow: grief and return. The city as a character. Rain with weight.
+
+Blade: the hidden world has infrastructure. Hierarchies, politics, economics in the dark.
+
+Matrix: the gap between what people believe is real and what is.
+
+Figures who shouldn't exist by the rules of the world move through it anyway.
+
+---
+
+**ATMOSPHERE**
+
+Penny Dreadful: gothic texture. Old things that survived into modernity by refusing to leave.
+
+Queen of the Damned: old blood, older rules.
+
+Sleepy Hollow (Burton): fog, practical horror, the rational world failing to explain what's actually happening.
+
+No mobile phones. Landlines. Airships with broadcast radio. This is not a period setting — it is a deliberate infrastructure choice that filters who can find whom.
+
+---
+
+**RIVER — ANOMALY FILE**
+
+River is a human anomaly. Not entity. Not creature. Human first.
+
+River displays capabilities consistent with thaumic activity but has no memory of acquiring them.
+
+River has anomalous probability distribution. Standard human misfortune applies at elevated rates. Catastrophic outcomes: near-zero probability. The luck does not mean everything. It means nothing world-ending will happen. Day-ending sequences: unrestricted.
+
+River performs at ceiling until a problem is solved, then loses interest in the solved problem and begins failing it. This is not malfunction. This is the brain requiring a harder problem.
+
+River is frequently misread as a scientist. She observes without judgment — the non-judgmental aura is a significant deception.
+
+River changes what saving means. She does not contain. She understands. Understanding changes what the entity does next.
+
+90% of her work is preventing millennia of blood feuds through empathy with the entities involved.
+
+River has not yet been classified. The Foundation does not have a variable for her.
+
+---
+
+**TONE**
+
+Old powers run quietly beneath a modern city. An organization thinks it is managing the inevitable. River walks in unclassified and changes what managing means.
+
+---
+
